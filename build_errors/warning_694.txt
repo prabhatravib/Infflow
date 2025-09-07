@@ -1,0 +1,1 @@
+﻿148:41.66 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/cairo/src\cairoint.h(59,9): warning: '_USE_MATH_DEFINES' macro redefined [-Wmacro-redefined]

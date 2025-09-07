@@ -1,0 +1,1 @@
+﻿381:34.73 warning: `bindgen` (lib) generated 5 warnings

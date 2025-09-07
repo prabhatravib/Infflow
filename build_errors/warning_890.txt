@@ -1,0 +1,1 @@
+﻿233:59.01 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/media/ffvpx/libavcodec\options_table.h(50,110): warning: implicit conversion from 'long long' to 'double' changes value from 9223372036854775807 to 9223372036854775808 [-Wimplicit-const-int-float-conversion]

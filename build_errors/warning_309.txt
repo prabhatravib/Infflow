@@ -1,0 +1,1 @@
+﻿14:14.38 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/third_party/sqlite3/ext/sqlite-vec/sqlite-vec.c(101,9): warning: 'min' macro redefined [-Wmacro-redefined]

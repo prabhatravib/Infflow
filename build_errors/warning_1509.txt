@@ -1,0 +1,1 @@
+﻿396:46.20 warning 6010: install function "GetInstallerRegistryPref" not referenced - zeroing code (1781-1805) out

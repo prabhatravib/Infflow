@@ -1,0 +1,1 @@
+﻿387:16.12 warning: implicit autoref creates a reference to the dereference of a raw pointer

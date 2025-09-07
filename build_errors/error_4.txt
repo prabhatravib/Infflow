@@ -1,0 +1,1 @@
+﻿ 0:26.17 checking whether the C++ compiler supports -Wno-error=maybe-uninitialized... no

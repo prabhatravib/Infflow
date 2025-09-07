@@ -1,0 +1,1 @@
+﻿ 0:33.86 checking whether the C compiler supports -Wno-error=builtin-macro-redefined... yes

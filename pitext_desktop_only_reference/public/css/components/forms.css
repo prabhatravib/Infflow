@@ -1,0 +1,66 @@
+/* public/css/components/forms.css */
+
+/* ============================================
+   Query Section
+   ============================================ */
+.query-section {
+  margin-bottom: 0.3rem;  /* Reduced from 0.55rem to 0.3rem */
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.input-wrapper {
+  display: flex;
+  gap: 0.25rem;
+  max-width: 600px;  /* Increased from 420px to 600px for wider horizontal layout */
+  margin: 0 auto;
+  margin-bottom: 0.5rem;
+}
+
+#query {
+  flex: 1;
+  padding: 0.6rem 0.75rem;  /* Reduced vertical padding from 0.8rem to 0.6rem */
+  font-size: 0.95rem;
+  background: var(--bg-translucent);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  color: var(--text-white);
+  transition: all var(--transition-fast);
+  margin-bottom: 0.5rem;
+  text-align: left;
+  line-height: 1.2;
+  height: 2.5rem;  /* Reduced from 3rem to 2.5rem for thinner appearance */
+  box-sizing: border-box;
+}
+
+#query:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  background: rgba(255, 255, 255, 0.15);
+}
+
+#query::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.2;
+  vertical-align: middle;
+}
+
+#deepDiveQuery {
+  flex: 1;
+  padding: 0.6rem 0.5rem;
+  background: var(--bg-translucent);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  color: var(--text-white);
+  font-size: 0.875rem;
+  line-height: 1.2;
+  height: 2.5rem;
+  box-sizing: border-box;
+}
+
+#deepDiveQuery:focus, #deepDiveQuery.highlight-focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 10px rgba(255, 214, 0, 0.5);
+  transition: all 0.2s ease-in-out;
+}

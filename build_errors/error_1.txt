@@ -1,0 +1,1 @@
+﻿ 0:22.28 checking whether the C compiler supports -Wno-error=tautological-type-limit-compare... yes

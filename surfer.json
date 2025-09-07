@@ -1,8 +1,8 @@
 {
-  "name": "Zen Browser",
-  "vendor": "Zen OSS Team",
-  "appId": "zen",
-  "binaryName": "zen",
+  "name": "Infflow Browser",
+  "vendor": "Infflow Team",
+  "appId": "infflow",
+  "binaryName": "infflow",
   "version": {
     "product": "firefox",
     "version": "142.0.1",
@@ -15,13 +15,14 @@
   "brands": {
     "release": {
       "backgroundColor": "#282A33",
-      "brandShorterName": "Zen",
-      "brandShortName": "Zen",
-      "brandFullName": "Zen Browser",
+      "brandShorterName": "Infflow",
+      "brandShortName": "Infflow",
+      "brandFullName": "Infflow Browser",
+      "brandingDir": "configs/branding/infflow",
       "release": {
-        "displayVersion": "1.15.4b",
+        "displayVersion": "1.0.0",
         "github": {
-          "repo": "zen-browser/desktop"
+          "repo": "infflow/desktop"
         },
         "archives": {
           "windows": "windows.mar",
@@ -35,13 +36,14 @@
     },
     "twilight": {
       "backgroundColor": "#282A33",
-      "brandShorterName": "Zen",
+      "brandShorterName": "Infflow",
       "brandShortName": "Twilight",
-      "brandFullName": "Zen Twilight",
+      "brandFullName": "Infflow Twilight",
+      "brandingDir": "configs/branding/infflow",
       "release": {
-        "displayVersion": "1.15t",
+        "displayVersion": "1.0.0t",
         "github": {
-          "repo": "zen-browser/desktop"
+          "repo": "infflow/desktop"
         }
       }
     }
@@ -52,5 +54,5 @@
     ],
     "licenseType": "MPL-2.0"
   },
-  "updateHostname": "updates.zen-browser.app"
+  "updateHostname": "updates.infflow.app"
 }

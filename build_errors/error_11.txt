@@ -1,0 +1,1 @@
+﻿ 0:26.93 checking whether the C compiler supports -Wno-error=class-memaccess... no

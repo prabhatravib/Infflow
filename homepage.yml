@@ -1,0 +1,20 @@
+- name: browser.startup.homepage
+  value: "about:infflow"
+
+# Disable Activity Stream and force custom about page for New Tab
+- name: browser.newtabpage.enabled
+  value: false
+
+- name: browser.newtabpage.activity-stream.enabled
+  value: false
+
+# Some builds still read this override
+- name: browser.newtab.url
+  value: "about:infflow"
+
+# Make about:home also point to our page when supported
+- name: browser.startup.homepage_override.mstone
+  value: "ignore"
+
+- name: browser.startup.homepage_override.buildID
+  value: "ignore"

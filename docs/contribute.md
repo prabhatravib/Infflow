@@ -6,6 +6,8 @@
 
 # Branch Structure
 
+> **Note**: This is a fork of [Zen Browser](https://github.com/zen-browser/desktop). The branch structure follows the original Zen Browser project.
+
 The repository is structured as follows:
 
 ```

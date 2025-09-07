@@ -1,0 +1,1 @@
+﻿50:41.46 warning: `authrs_bridge` (lib) generated 1 warning

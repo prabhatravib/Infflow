@@ -22,3 +22,6 @@ target/
 .vscode/
 
 locales/firefox-l10n/
+
+
+pitext_desktop/

@@ -1,0 +1,1 @@
+﻿236:53.83    38 |                 x86_report_error(report_disasm_bounds, (void*)(long)(buf_rva+offset));

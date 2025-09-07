@@ -1,0 +1,1 @@
+﻿51:18.30 warning: `wgpu_bindings` (lib) generated 3 warnings

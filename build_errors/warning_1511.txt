@@ -1,0 +1,1 @@
+﻿396:46.20 warning 6012: label "hideshortcuts" not used

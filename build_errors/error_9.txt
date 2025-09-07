@@ -1,0 +1,1 @@
+﻿ 0:26.65 checking whether the C compiler supports -Wno-error=free-nonheap-object... yes

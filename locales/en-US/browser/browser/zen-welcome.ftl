@@ -31,4 +31,4 @@ zen-welcome-default-search-description = Choose your default search engine. You 
 zen-welcome-skip-button = Skip
 zen-welcome-next-action = Next
 
-zen-welcome-finished = Your Zen has been set up correctly!
+zen-welcome-finished = Your Infflow has been set up correctly!

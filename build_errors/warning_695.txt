@@ -1,0 +1,1 @@
+﻿148:41.77 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/cairo/src\cairo-atomic-private.h(394,10): warning: cast to 'void *' from smaller integer type 'cairo_atomic_intptr_t' (aka 'int') [-Wint-to-void-pointer-cast]

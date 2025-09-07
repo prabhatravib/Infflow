@@ -1,0 +1,1 @@
+﻿13:01.37 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/nsprpub/pr/src/md/windows/w95sock.c(114,63): warning: comparison of integers of different signs: 'SOCKET' (aka 'unsigned long long') and 'int' [-Wsign-compare]

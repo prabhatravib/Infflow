@@ -1,0 +1,1 @@
+﻿14:10.34 fts5parse.sql(1042,9): warning: code will never be executed [-Wunreachable-code]

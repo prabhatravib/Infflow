@@ -1,0 +1,1 @@
+﻿396:46.20 warning 6012: label "lbl_GPSBWVWSP_12_test_win11" not used

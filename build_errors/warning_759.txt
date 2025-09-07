@@ -1,0 +1,1 @@
+﻿196:35.27 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/third_party/jpeg-xl\lib/jxl/modular/transform/palette.h(54,1): warning: unused function 'GetPaletteValue' [-Wunused-function]

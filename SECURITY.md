@@ -8,4 +8,6 @@
 
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities [here](https://github.com/zen-browser/desktop/security/advisories/new)
+Please report security vulnerabilities for the original Zen Browser [here](https://github.com/zen-browser/desktop/security/advisories/new)
+
+For Infflow-specific security issues, please report them through the appropriate channels for this fork.

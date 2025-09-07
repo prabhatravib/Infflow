@@ -1,0 +1,1 @@
+﻿ 0:26.47 checking whether the C compiler supports -Wno-error=array-bounds... yes

@@ -1,8 +1,10 @@
-# Zen Live Folders - Specification
+# Infflow Live Folders - Specification
+
+> **Note**: This is a fork of [Zen Browser](https://github.com/zen-browser/desktop). Live Folders functionality is based on the original Zen Browser implementation.
 
 ## Overview
 
-Live Folders are dynamic, auto-updating folders in Zen.  
+Live Folders are dynamic, auto-updating folders in Infflow.  
 Unlike static folders, they fetch and refresh their contents automatically from external sources (e.g., RSS feeds, APIs).  
 By default, Live Folders refresh every **30 minutes**, but this interval can be configured in preferences.
 
@@ -68,11 +70,11 @@ interface LiveFolderProvider {
 
 ## Overview
 
-REST-based Live Folders allow Zen to fetch JSON data from an HTTP(S) endpoint and map it into folder items.  
-Each REST Live Folder must provide a **schema-compliant response** that Zen can parse into items.
+REST-based Live Folders allow Infflow to fetch JSON data from an HTTP(S) endpoint and map it into folder items.  
+Each REST Live Folder must provide a **schema-compliant response** that Infflow can parse into items.
 
 - **Remote APIs (https://, http://)**: Flexible schema (mapping via config).
-- **Localhost APIs (http://127.0.0.1, http://localhost)**: Must strictly follow Zen’s **Local REST Schema** for security and consistency.
+- **Localhost APIs (http://127.0.0.1, http://localhost)**: Must strictly follow Infflow's **Local REST Schema** for security and consistency.
 
 ---
 
@@ -105,8 +107,8 @@ Remote APIs can return any JSON, but the Live Folder must provide a mapping conf
 
 ### Installation of REST API Live Folder
 
-These schemas would be stored inside a marketplace on Zen's web platform, allowing users to easily discover and integrate new REST API Live Folders into their workspace.
+These schemas would be stored inside a marketplace on the original Zen's web platform, allowing users to easily discover and integrate new REST API Live Folders into their workspace.
 
 If the user wants to create a new REST API Live Folder, they can do so by providing the necessary schema and configuration through the marketplace interface. This will enable them to customize the folder's behavior and data mapping according to their specific needs.
 
-If it's a custom API and the schema is not publicly available, users can still create a Live Folder by defining their own mapping configuration. This allows them to integrate with proprietary APIs while adhering to Zen's Live Folder standards. This mapping configuration will be fetched via `https://example.com/zen-live-folder.schema.json`.
+If it's a custom API and the schema is not publicly available, users can still create a Live Folder by defining their own mapping configuration. This allows them to integrate with proprietary APIs while adhering to Infflow's Live Folder standards (based on Zen's implementation). This mapping configuration will be fetched via `https://example.com/zen-live-folder.schema.json`.

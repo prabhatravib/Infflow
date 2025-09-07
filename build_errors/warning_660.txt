@@ -1,0 +1,1 @@
+﻿88:45.13 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/third_party/aom/av1/encoder/x86/av1_fwd_txfm2d_avx2.c(2052,25): warning: result of comparison of 4 < 2-bit unsigned value is always false [-Wtautological-value-range-compare]

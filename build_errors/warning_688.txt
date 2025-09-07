@@ -1,0 +1,1 @@
+﻿146:03.70 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/libpixman/src/pixman-fast-path.c(3055,22): warning: converting the result of '<<' to a boolean; did you mean '(((format >> (12)) & ((1 << (4)) - 1)) << ((format >> 22) & 3)) != 0'? [-Wint-in-bool-context]
