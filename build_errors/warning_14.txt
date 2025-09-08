@@ -1,1 +1,0 @@
-﻿ 6:37.19 clang-cl: warning: argument unused during compilation: '-std:c++17' [-Wunused-command-line-argument]

@@ -1,1 +1,0 @@
-﻿396:46.20 warning 6010: install function "ReadRegQWORD" not referenced - zeroing code (27-50) out

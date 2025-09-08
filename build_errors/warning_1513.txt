@@ -1,1 +1,0 @@
-﻿396:46.21 warning 6001: Variable "AddTaskbarSC" not referenced or never set, wasting memory!

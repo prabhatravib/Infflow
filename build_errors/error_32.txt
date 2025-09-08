@@ -1,1 +1,0 @@
-﻿36:31.90 216 |     pub fn try_borrow_metasources(&self) -> Result<Ref<MetaSources>, L10nRegistrySetupError> {

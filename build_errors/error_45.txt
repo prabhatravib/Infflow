@@ -1,1 +1,0 @@
-﻿236:53.84    62 |                 x86_report_error( report_insn_bounds, (void*)(long)(buf_rva + offset));

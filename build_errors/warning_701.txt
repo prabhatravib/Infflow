@@ -1,1 +1,0 @@
-﻿148:43.53 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/cairo/src/win32/cairo-dwrite-font.cpp(1152,10): warning: enumeration value 'DWRITE_GLYPH_IMAGE_FORMATS_COLR_PAINT_TREE' not handled in switch [-Wswitch]

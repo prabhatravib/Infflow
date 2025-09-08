@@ -1,1 +1,0 @@
-﻿98:07.98 warning: struct `Geometry` is never constructed

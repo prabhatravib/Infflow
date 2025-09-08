@@ -1,1 +1,0 @@
-﻿ 0:27.20 checking whether the C++ compiler supports -Wno-error=atomic-alignment... yes

@@ -1,1 +1,0 @@
-﻿ 6:47.93 C:/Users/prabh/.mozbuild/vs/Windows Kits/10/Include/10.0.22621.0/um\objidl.idl(67,10): warning: non-portable path to file '"objidlbase.Idl"'; specified path differs in case from file name on disk [-Wnonportable-include-path]

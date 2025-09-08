@@ -1,1 +1,0 @@
-﻿146:24.10 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/libpixman/src/pixman-image.c(458,7): warning: converting the result of '<<' to a boolean; did you mean '(((image->bits.format >> (12)) & ((1 << (4)) - 1)) << ((image->bits.format >> 22) & 3)) != 0'? [-Wint-in-bool-context]

@@ -1,1 +1,0 @@
-﻿68:12.45 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/media/libvpx/libvpx/vp9/encoder/vp9_encoder.c(6034,80): warning: arithmetic between floating-point type 'double' and enumeration type 'vpx_bit_depth_t' (aka 'enum vpx_bit_depth') [-Wenum-float-conversion]

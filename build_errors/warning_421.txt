@@ -1,1 +1,0 @@
-﻿34:59.99 warning: `glsl-to-cxx` (lib) generated 1 warning

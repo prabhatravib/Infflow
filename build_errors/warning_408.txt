@@ -1,1 +1,0 @@
-﻿30:37.63 warning: `gecko-profiler` (lib) generated 1 warning

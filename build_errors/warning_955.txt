@@ -1,1 +1,0 @@
-﻿242:53.90 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/graphite2/src/GlyphCache.cpp:47:40: warning: 'iterator<std::input_iterator_tag, std::pair<unsigned short, unsigned short>>' is deprecated [-Wdeprecated-declarations]

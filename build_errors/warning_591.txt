@@ -1,1 +1,0 @@
-﻿59:23.36 warning: `wr_glyph_rasterizer` (lib) generated 11 warnings

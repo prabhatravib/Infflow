@@ -1,1 +1,0 @@
-﻿13:01.41 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/nsprpub/pr/src/md/windows/w95sock.c(389,72): warning: passing 'const void *' to parameter of type 'PVOID' (aka 'void *') discards qualifiers [-Wincompatible-pointer-types-discards-qualifiers]

@@ -1,1 +1,0 @@
-﻿198:02.31 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/netwerk/sctp/src\user_atomic.h(81,13): warning: unused function 'atomic_init' [-Wunused-function]

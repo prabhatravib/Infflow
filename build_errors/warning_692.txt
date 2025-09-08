@@ -1,1 +1,0 @@
-﻿147:47.82 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/gfx/cairo/cairo/src/cairo-image-surface.c(152,9): warning: converting the result of '<<' to a boolean; did you mean '(((pixman_format >> (12)) & ((1 << (4)) - 1)) << ((pixman_format >> 22) & 3)) != 0'? [-Wint-in-bool-context]

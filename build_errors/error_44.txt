@@ -1,1 +1,0 @@
-﻿236:53.84    56 |                 x86_report_error(report_invalid_insn, (void*)(long)(buf_rva+offset));

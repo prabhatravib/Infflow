@@ -1,1 +1,0 @@
-﻿204:56.60 C:/Users/prabh/OneDrive/Documents/GitHub/Infflow/engine/third_party/libwebrtc/call/adaptation/video_stream_adapter.cc(241,10): warning: returning variable 'current_restrictions_' by reference requires holding mutex 'sequence_checker_' [-Wthread-safety-reference-return]
